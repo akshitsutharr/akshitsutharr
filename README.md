@@ -12,8 +12,6 @@ I'm Currenty Studying Computer Engineering <br>I'm FullStack Developer
 ![](https://nirzak-streak-stats.vercel.app/?user=akshitsutharr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitsutharr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshitsutharr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Just A Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
