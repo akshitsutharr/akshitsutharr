@@ -1,10 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=250&section=header&text=Hi,%20I'm%20Akshit%20Suthar!%20👋&fontSize=45&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <b>🚀 Full Stack Developer | 🎓 Computer Engineering Student | 🎨 UI/UX Enthusiast</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Akshit+Suthar+👋;Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Tech+Lover+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,25 +10,33 @@
 - 🛠️ Passionate about building **Full Stack Web Applications**
 - 🎯 Focused on clean code, performance, and design
 - 💡 Love designing modern UI with **TailwindCSS & Figma**
-- 🌱 Currently learning **TypeScript & DevOps**
+- 🌱 Currently learning **AL/ML**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/akshitsutharr" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-  <a href="https://linkedin.com/in/akshit-suthar-312407314" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="mailto:itsmeakshit.005@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-  <a href="https://akshitsuthar.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="40" />
-  </a>
+  <span style="margin-right:15px;">
+    <a href="https://instagram.com/akshitsutharr" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+    </a>
+  </span>
+  <span style="margin-right:15px;">
+    <a href="https://linkedin.com/in/akshit-suthar-312407314" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    </a>
+  </span>
+  <span style="margin-right:15px;">
+    <a href="mailto:itsmeakshit.005@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    </a>
+  </span>
+  <span style="margin-right:15px;">
+    <a href="https://akshitsuthar.vercel.app/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+    </a>
+  </span>
 </p>
 
 ---
@@ -64,12 +68,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshitsutharr&theme=radical&show_icons=true&hide_border=false" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitsutharr&theme=radical&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshitsutharr&theme=radical&show_icons=true&hide_border=false" width="38%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitsutharr&theme=radical&hide_border=false" width="38%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitsutharr&theme=radical&layout=compact&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitsutharr&theme=radical&layout=compact&hide_border=false" width="28%"/>
 </p>
 
 ---
@@ -91,20 +95,18 @@
 
 ---
 
-## 🧱 GitHub 3D Contributions (Fancy Calendar)
+## 🧱 GitHub 3D Contributions
 
-> A stylish visual of your contribution activity on GitHub
 
 <p align="center">
   <img src="https://github.com/akshitsutharr/akshitsutharr/blob/output/github-contribution-grid-snake.svg" alt="3D GitHub Snake Animation" />
 </p>
 
-> _This animated graph is generated with a GitHub action (ask me if you want it added!)_
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:38BDF8&height=120&section=footer"/>
+  <img src="https://img.shields.io/badge/Akshit%20Suthar-Full%20Stack%20Web%20Developer-blueviolet?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 <p align="center">
