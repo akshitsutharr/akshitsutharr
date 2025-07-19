@@ -87,13 +87,6 @@
 
 ---
 
-## 🏆 GitHub Achievements & Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshitsutharr&theme=dracula&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## 🧱 GitHub 3D Contributions
 
