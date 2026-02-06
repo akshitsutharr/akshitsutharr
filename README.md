@@ -66,15 +66,13 @@
 ---
 
 ## 📊 GitHub Stats
+![Akshit's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akshitsutharr&show_icons=true&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshitsutharr&theme=radical&show_icons=true&hide_border=false" width="38%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitsutharr&theme=radical&hide_border=false" width="38%"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=akshitsutharr&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitsutharr&theme=radical&layout=compact&hide_border=false" width="28%"/>
-</p>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akshitsutharr&layout=compact&theme=radical&hide_border=true)
+>
+
 
 ---
 
