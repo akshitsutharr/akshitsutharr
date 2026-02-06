@@ -63,15 +63,24 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
+## 📊 Data Science & Machine Learning
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="42"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="42"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
-![Akshit's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akshitsutharr&show_icons=true&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=akshitsutharr&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akshitsutharr&layout=compact&theme=radical&hide_border=true)
->
 
 
 ---
