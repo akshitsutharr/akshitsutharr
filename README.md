@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F72585&center=true&vCenter=true&width=900&lines=Hi+I'm+Akshit+Suthar;Full+Stack+Developer;Data+Science+Enthusiast;AI+%2F+ML+Explorer;Building+Scalable+and+Intelligent+Systems" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:3333ff&height=5&width=100"/>
 
 ## About Me
 
@@ -45,7 +45,7 @@ I am particularly interested in:
   </span>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:3333ff&height=5&width=100"/>
 
 ## Tech Stack
 
@@ -90,7 +90,6 @@ I am particularly interested in:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshitsutharr&theme=tokyonight)
 
----
 
 ## Data Science & Machine Learning Focus
 
@@ -100,7 +99,7 @@ I am particularly interested in:
 - Experience with Python ecosystem (NumPy, Pandas, Scikit-learn, PyTorch)  
 - Integrating ML models into full stack applications  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:3333ff&height=5&width=100"/>
 
 
 ## Contributions
@@ -111,7 +110,6 @@ I am particularly interested in:
 </p>
 
 
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Akshit%20Suthar-Full%20Stack%20Web%20Developer-blueviolet?style=for-the-badge&logo=nextdotjs&logoColor=white" />
