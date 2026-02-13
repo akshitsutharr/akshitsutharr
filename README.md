@@ -1,20 +1,26 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Akshit+Suthar+👋;Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Tech+Lover+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F72585&center=true&vCenter=true&width=900&lines=Hi+I'm+Akshit+Suthar;Full+Stack+Developer;Data+Science+Enthusiast;AI+%2F+ML+Explorer;Building+Scalable+and+Intelligent+Systems" />
 </p>
 
 ---
 
-## 🔥 About Me
-- 🧑‍💻 I'm currently pursuing **Computer Engineering**
-- 🛠️ Passionate about building **Full Stack Web Applications**
-- 🎯 Focused on clean code, performance, and design
-- 💡 Love designing modern UI with **TailwindCSS & Figma**
-- 🌱 Currently learning **AL/ML**
+## About Me
 
----
+I am a Computer Engineering student with a strong foundation in software development, data structures, and system design. 
 
-## 🌐 Connect With Me
+I specialize in Full Stack Web Development and have hands-on experience building scalable, production-ready applications. Alongside web technologies, I actively work in Data Science and Machine Learning, focusing on building intelligent systems and data-driven solutions.
+
+My core strengths include problem-solving using C++, implementing efficient algorithms, and writing clean, maintainable code. I continuously work on improving performance, architecture design, and overall engineering quality.
+
+I am particularly interested in:
+- Full Stack Application Development
+- Data Science and Machine Learning
+- Scalable Backend Systems
+- Algorithmic Problem Solving (DSA)
+
+
+## Connect With Me
 
 <p align="left">
   <span style="margin-right:15px;">
@@ -41,29 +47,28 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🚀 Languages & Fundamentals
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
-</p>
+### Languages & Fundamentals 
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 
-### 🎨 Frontend Development
+
+### Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
 </p>
 
-### 🧠 Backend & Databases
+### Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
-## 📊 Data Science & Machine Learning
+## Data Science & Machine Learning
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
@@ -77,25 +82,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="42"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:3333ff&height=5&width=100"/>
 
-## 📊 GitHub Stats
+
+## Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=akshitsutharr&theme=radical&hide_border=true)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshitsutharr&theme=tokyonight)
 
 ---
 
-## 🧠 UI/UX & Design Focus
+## Data Science & Machine Learning Focus
 
-- ✅ Clean, modern, and minimalistic interfaces  
-- 🪄 Responsive and mobile-friendly layouts  
-- 💼 Component-based design with reusable code  
-- 🎨 Tools I love: **Figma, TailwindCSS, Next.js**
+- Working with data analysis and model development workflows  
+- Implementing machine learning algorithms for real-world problems  
+- Strong understanding of statistics, data preprocessing, and feature engineering  
+- Experience with Python ecosystem (NumPy, Pandas, Scikit-learn, PyTorch)  
+- Integrating ML models into full stack applications  
 
 ---
 
 
-## 🧱 GitHub 3D Contributions
+## Contributions
 
 
 <p align="center">
