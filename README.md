@@ -86,7 +86,7 @@ I am particularly interested in:
 
 
 ## Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=akshitsutharr&theme=radical&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshitsutharr&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshitsutharr&theme=tokyonight)
 
