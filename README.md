@@ -140,6 +140,7 @@ I am particularly interested in:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Akshit%20Suthar-Full%20Stack%20Web%20Developer-blueviolet?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=akshitsutharr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
 <p align="center">
