@@ -103,7 +103,7 @@ I am particularly interested in:
 </p>
 
 <p align="center">
-  <a href="https://devdna.app">
+  <a href=https://thedevdna.vercel.app">
     <img src="https://img.shields.io/badge/DevDNA-Get%20Your%20Card-blue?style=for-the-badge" />
   </a>
 </p>
