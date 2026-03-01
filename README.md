@@ -92,6 +92,31 @@ I am particularly interested in:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshitsutharr&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" width="650"/>
 </p>
 
+## 🧬 DevDNA Card
+
+<p align="center">
+  DevDNA analyzes your GitHub activity and transforms it into a visual identity of how you actually code.
+</p>
+
+<p align="center">
+  <b>Get your own DevDNA card</b>
+</p>
+
+<p align="center">
+  <a href="https://devdna.app">
+    <img src="https://img.shields.io/badge/DevDNA-Get%20Your%20Card-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://thedevdna.vercel.app">
+    <img 
+      src="https://thedevdna.vercel.app/api/dev-dna?username=akshitsutharr&theme=dark"
+      width="600"
+    />
+  </a>
+</p>
+
 
 ## Data Science & Machine Learning Focus
 
