@@ -20,68 +20,176 @@ I am particularly interested in:
 - Algorithmic Problem Solving (DSA)
 
 
-## Connect With Me
+### Connect With Me
+<table>
+<tr>
 
-<p align="left">
-  <span style="margin-right:15px;">
+<td align="center" style="padding:15px;border:1px solid #30363d;">
     <a href="https://instagram.com/akshitsutharr" target="_blank">
       <img src="https://skillicons.dev/icons?i=instagram" height="40" />
     </a>
-  </span>
-  <span style="margin-right:15px;">
-    <a href="https://linkedin.com/in/akshit-suthar-312407314" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-    </a>
-  </span>
-  <span style="margin-right:15px;">
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
     <a href="mailto:itsmeakshit.005@gmail.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=gmail" height="40" />
     </a>
-  </span>
-  <span style="margin-right:15px;">
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+    <a href="https://linkedin.com/in/akshit-suthar-312407314" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    </a>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
     <a href="https://akshitsuthar.vercel.app/" target="_blank">
       <img src="https://skillicons.dev/icons?i=vercel" height="40" />
     </a>
-  </span>
-</p>
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:3333ff&height=5&width=100"/>
 
-## Tech Stack
+## Skills
 
-### Languages & Fundamentals 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+### Languages & Fundamentals
+
+<table>
+<tr>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=c" width="45"/><br><sub><b>C</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=cpp" width="45"/><br><sub><b>C++</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=java" width="45"/><br><sub><b>Java</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=python" width="45"/><br><sub><b>Python</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=js" width="45"/><br><sub><b>JavaScript</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=ts" width="45"/><br><sub><b>TypeScript</b></sub>
+</td>
+
+</tr>
+</table>
 
 
 ### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
-</p>
+
+<table>
+<tr>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=html" width="45"/><br><sub><b>HTML</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=css" width="45"/><br><sub><b>CSS</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=react" width="45"/><br><sub><b>React</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br><sub><b>Next.js</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br><sub><b>Tailwind</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=vite" width="45"/><br><sub><b>Vite</b></sub>
+</td>
+
+</tr>
+</table>
 
 ### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
+
+<table>
+<tr>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br><sub><b>Node.js</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=express" width="45"/><br><sub><b>Express</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br><sub><b>MongoDB</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br><sub><b>MySQL</b></sub>
+</td>
+
+</tr>
+</table>
 
 ### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
 
-## Data Science & Machine Learning
+<table>
+<tr>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="42"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="42"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="42"/>
-</p>
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=git" width="45"/><br><sub><b>Git</b></sub>
+</td>
 
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=github" width="45"/><br><sub><b>GitHub</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/><br><sub><b>VS Code</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=figma" width="45"/><br><sub><b>Figma</b></sub>
+</td>
+
+<td align="center" style="padding:15px;border:1px solid #30363d;">
+<img src="https://skillicons.dev/icons?i=postman" width="45"/><br><sub><b>Postman</b></sub>
+</td>
+
+</tr>
+</table>
+
+
+### Data Science & Machine Learning
+<table>
+<tr>
+<td align="center" style="padding:15px;border:1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br><sub><b>Python</b></sub></td>
+<td align="center" style="padding:15px;border:1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br><sub><b>NumPy</b></sub></td>
+<td align="center" style="padding:15px;border:1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br><sub><b>Pandas</b></sub></td>
+<td align="center" style="padding:15px;border:1px solid #30363d;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45"/><br><sub><b>Matplotlib</b></sub></td>
+<td align="center" style="padding:15px;border:1px solid #30363d;"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="45"/><br><sub><b>Plotly</b></sub></td>
+</tr>
+
+<tr>
+<td align="center" style="padding:15px;border:1px solid #30363d;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/><br><sub><b>Seaborn</b></sub></td>
+<td align="center" style="padding:15px;border:1px solid #30363d;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/><br><sub><b>Scikit-Learn</b></sub></td>
+<td align="center" style="padding:15px;border:1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/><br><sub><b>PyTorch</b></sub></td>
+<td align="center" style="padding:15px;border:1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br><sub><b>Jupyter</b></sub></td>
+<td align="center" style="padding:15px;border:1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45"/><br><sub><b>Anaconda</b></sub></td>
+</tr>
+</table>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:3333ff&height=5&width=100"/>
 
 
