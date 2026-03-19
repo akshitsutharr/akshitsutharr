@@ -194,7 +194,7 @@ I am particularly interested in:
 
 
 ## Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshitsutharr&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akshitsutharr&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 <p align="">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshitsutharr&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" width="650"/>
