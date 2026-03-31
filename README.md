@@ -219,7 +219,7 @@ I am particularly interested in:
 <p align="center">
   <a href="https://thedevdna.vercel.app">
     <img 
-      src="https://thedevdna.vercel.app/api/dev-dna?username=akshitsutharr&theme=dark"
+      src="https://thedevdna.vercel.app/api/dev-dna?username=akshitsutharr&theme=github-dark"
       width="600"
     />
   </a>
