@@ -1,10 +1,10 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Hi%20%F0%9F%91%8B,%20I'm%20Akshit%20Suthar&fontSize=48&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=0,2,2,5,30" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Hi%20%F0%9F%91%8B,%20I'm%20Akshit%20Suthar&fontSize=32&fontColor=ffffff&animation=twinkling&color=ff0000&bgColor=00000000" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Data+Science+%26+Machine+Learning;AI+%2F+ML+Explorer;Turning+Ideas+into+Real+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Data+Science+%26+Machine+Learning;AI+%2F+ML+Explorer;Turning+Ideas+into+Real+Products" />
 </p>
 
 ## About Me
