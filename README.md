@@ -1,9 +1,10 @@
 <!-- Header Banner -->
+<h1 align="center">
+  Hi 👋, I'm <a href="https://www.akshitsuthar.me/" style="text-decoration: none; color: inherit;"><strong>Akshit Suthar</strong></a>
+</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F72585&center=true&vCenter=true&width=900&lines=Hi+I'm+Akshit+Suthar;Full+Stack+Developer;Data+Science+Enthusiast;AI+%2F+ML+Explorer;Building+Scalable+and+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Data+Science+%26+Machine+Learning;AI+%2F+ML+Explorer;Turning+Ideas+into+Real+Products" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:3333ff&height=5&width=100"/>
 
 ## About Me
 
@@ -50,7 +51,6 @@ I am particularly interested in:
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:3333ff&height=5&width=100"/>
 
 ## Skills
 
@@ -190,7 +190,6 @@ I am particularly interested in:
 <td align="center" style="padding:15px;border:1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45"/><br><sub><b>Anaconda</b></sub></td>
 </tr>
 </table>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:3333ff&height=5&width=100"/>
 
 
 ## Stats
@@ -234,7 +233,6 @@ I am particularly interested in:
 - Experience with Python ecosystem (NumPy, Pandas, Scikit-learn, PyTorch)  
 - Integrating ML models into full stack applications  
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:3333ff&height=5&width=100"/>
 
 
 ## Contributions
@@ -252,5 +250,5 @@ I am particularly interested in:
 </p>
 
 <p align="center">
-  Built with ❤️ by <strong>Akshit Suthar</strong>
+  Built with ❤️ by <a href="https://www.akshitsuthar.me/" style="text-decoration: none;"><strong>Akshit Suthar</strong></a>
 </p>
