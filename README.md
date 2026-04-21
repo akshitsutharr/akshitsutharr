@@ -43,8 +43,8 @@ I am particularly interested in:
 </td>
 
 <td align="center" style="padding:15px;border:1px solid #30363d;">
-    <a href="https://akshitsuthar.vercel.app/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+    <a href="https://akshitsuthar.me/" target="_blank">
+      <img src="https://www.akshitsuthar.me/favicon2.png" height="40" />
     </a>
 </td>
 </tr>
