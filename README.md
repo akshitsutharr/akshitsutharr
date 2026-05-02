@@ -225,7 +225,7 @@ I am particularly interested in:
 <p align="center">
   <a href="https://thedevdna.vercel.app">
     <img 
-      src="https://devdna.netlify.app/api/dev-dna?username=akshitsutharr&theme=github-dark"
+      src="https://devdna.netlify.app/api/dev-dna?username=akshitsutharr&theme=synthwave"
       width="600"
     />
   </a>
