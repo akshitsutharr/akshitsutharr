@@ -217,15 +217,15 @@ I am particularly interested in:
 </p>
 
 <p align="center">
-  <a href=https://thedevdna.vercel.app>
+  <a href=https://devdna.netlify.app>
     <img src="https://img.shields.io/badge/DevDNA-Get%20Your%20Card-blue?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://thedevdna.vercel.app">
+  <a href="https://devdna.netlify.app">
     <img 
-      src="https://devdna.netlify.app/api/dev-dna?username=akshitsutharr&theme=github-dark"
+      src="https://devdna.netlify.app/api/dev-dna?username=akshitsutharr&theme=dark"
       width="600"
     />
   </a>
