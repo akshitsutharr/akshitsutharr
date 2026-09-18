@@ -201,7 +201,7 @@ I am particularly interested in:
   />
 </p>
 
-## 🧬 DevDNA Card
+## DevDNA Card
 
 <p align="center">
   DevDNA analyzes your GitHub activity and transforms it into a visual identity of how you actually code.
