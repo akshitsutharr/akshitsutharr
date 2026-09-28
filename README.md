@@ -204,7 +204,7 @@ I am particularly interested in:
 ## DevDNA Card
 
 <p align="center">
-  DevDNA analyzes your GitHub activity and transforms it into a visual identity of how you actually code.
+  DevDNA analyzes your GitHub activity and transforms it into a visual identity of how you actually code
 </p>
 
 <p align="center">
