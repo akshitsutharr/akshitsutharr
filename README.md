@@ -201,32 +201,6 @@ I am particularly interested in:
   />
 </p>
 
-## DevDNA Card
-
-<p align="center">
-  DevDNA analyzes your GitHub activity and transforms it into a visual identity of how you actually code
-</p>
-
-<p align="center">
-  <b>Get your own DevDNA card</b>
-</p>
-
-<p align="center">
-  <a href=https://devdna.netlify.app>
-    <img src="https://img.shields.io/badge/DevDNA-Get%20Your%20Card-blue?style=for-the-badge" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://devdna.netlify.app">
-    <img 
-      src="https://devdna.netlify.app/api/dev-dna?username=akshitsutharr&theme=dark"
-      width="600"
-    />
-  </a>
-</p>
-
-
 ## Data Science & Machine Learning Focus
 
 - Working with data analysis and model development workflows  
