@@ -209,6 +209,32 @@ I am particularly interested in:
 - Experience with Python ecosystem (NumPy, Pandas, Scikit-learn, PyTorch)  
 - Integrating ML models into full stack applications  
 
+## Leetcode Badges
+<table>
+  <tr>
+    </td>
+    <td align="center" style="border: 1px solid #30363d;">
+      <img src="https://assets.leetcode.com/static_assets/others/2026_200.gif"
+           width="100"
+           alt="200 Days Badge">
+      <br>
+      <b>200 Days</b>
+    </td>
+    <td align="center" style="border: 1px solid #30363d;">
+      <img src="https://assets.leetcode.com/static_assets/others/100.gif"
+           width="100"
+           alt="100 Days Badge">
+      <br>
+      <b>100 Days</b>
+    <td align="center" style="border: 1px solid #30363d;">
+      <img src="https://assets.leetcode.com/static_assets/others/50.gif"
+           width="100"
+           alt="50 Days Badge">
+      <br>
+      <b>200 Days</b>
+    </td>
+  </tr>
+</table>
 
 
 ## Contributions
