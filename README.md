@@ -231,7 +231,7 @@ I am particularly interested in:
            width="100"
            alt="50 Days Badge">
       <br>
-      <b>200 Days</b>
+      <b>50 Days</b>
     </td>
   </tr>
 </table>
